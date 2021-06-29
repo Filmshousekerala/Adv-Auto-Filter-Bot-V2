@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'kl_Books', url="https://t.me/CrazyBotsz"
+                                    'kl_Books', url="https://t.me/kl_books"
                                 )
                         ]
                     ]
