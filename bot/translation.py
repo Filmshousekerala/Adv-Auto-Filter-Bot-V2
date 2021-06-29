@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>
 ഞാൻ നിങ്ങളുടെ സ്വന്തം ജെറി.....
-എന്നെ ഉണ്ടാക്കിയത് [ഇവരാണ്](https://t.me/filmsnew169)
+എന്നെ official bot of @filmsnew169
 
 
 For More Details Click Help Button Below..
