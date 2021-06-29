@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>
 ഞാൻ നിങ്ങളുടെ സ്വന്തം ജെറി.....
-എന്നെ official bot of @filmsnew169
+iam official bot of @filmsnew169
 
 
 
