@@ -10,8 +10,8 @@ class Translation(object):
 എന്നെ official bot of @filmsnew169
 
 
-For More Details Click Help Button Below..
-@filmsnew169
+
+
 </i>"""    
     
     HELP_TEXT = """
