@@ -6,12 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>
-ഞാൻ നിങ്ങളുടെ സ്വന്തം ജെറി.....
-iam official bot of @filmsnew169
-
-
-
-
+ഞാൻ നിങ്ങളുടെ സ്വന്തം dayyana.....
+iam official bot of @FilmHouse_2
+Creators @filmsnew169
 </i>"""    
     
     HELP_TEXT = """
@@ -43,8 +40,7 @@ iam official bot of @filmsnew169
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@filmsnew169
+           
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
