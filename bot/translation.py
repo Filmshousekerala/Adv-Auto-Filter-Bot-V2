@@ -4,9 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hai {}!!</b>
 <i>
-ഞാൻ നിങ്ങളുടെ സ്വന്തം dayyana.....
+I am dayyana.....
 iam official bot of @FilmHouse_2
 Creators @filmsnew169
 </i>"""    
